@@ -46,7 +46,7 @@ ALLHOSTNAMES = (
     "Liteon\ Technology\ Corporation"
 )
 ALLMACS = (
-    //Examples
+#    //Examples
     "14:9F:3C:B9:23:A1",
     "00:87:01:97:C2:B3",
     "98:9C:57:2C:05:D3",
