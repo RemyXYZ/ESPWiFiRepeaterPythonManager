@@ -22,7 +22,7 @@ ALLSSIDS = (
     "SSID_OF_YOUR_WiFi_2"
     )
 ALLBSSIDS = (
-    //Examples
+#    //Examples
     "D4:AB:82:AB:F8:98",
     "B0:BE:76:72:CA:9B",
     "D4:AB:82:91:B5:11"
@@ -33,8 +33,8 @@ ALLPASSWORDS = (
     "YOUR_WiFi_PASSWORD_2"
     )
 ALLHOSTNAMES = (
-    //To add special char, you must to use before the '\' char.
-    //Examples
+#    //To add special char, you must to use before the '\' char.
+#    //Examples
     "TP-LINK\ TECHNOLOGIES\ CO\.\,LTD\.",
     "Shenzhen\ Gwelltimes\ Technology",
     "ARRIS\ Group\,\ Inc\.",
